@@ -38,7 +38,8 @@ The idea here is to look out how many points you were scoring and how consistent
 
 ### Season Power Rankings
 
-Now how do we compare seasons from one year against seasons from another? The main problem is that average points (a major factor in the RAW power ranking) change from season to season based on rules, evolving league play etc. This is where the seasons power rankings come into play. They will tell you how dominant you were in a given season.
+Now how do we compare seasons from one year against seasons from another? The main problem is that average points (a major factor in the RAW power ranking) change from season to season based on rules, evolving league play etc. This is where the season power rankings come into play. They will tell you how dominant you were in a given season aim to equalize so we can compare seasons across years. 
+
 Simply we take a given Power Ranking and compare it against the average raw power ranking from everyone else in the league that seasons. This way in a given season about half of the leauge will be above 1.0 and half below 1.0. 
 
 - A season above 1.0 and you had a good chance to make the playoffs.
@@ -56,13 +57,13 @@ OK here is where we leave the realm of focusing on points scored and really star
 The thinking here is that while you could get unlucky in a given season, if you're a good manager the wins are going to come. 
 Here is how we account for those factors:
 
-**Regular Season Number**  
+#### Regular Season Number 
 Regular season wins / League average winning %
 
-**Post Season Number**  
+#### Post Season Number
 (Post Season Wins + Byes)/ League average post season winning %
 
-**Championship multiplier**  
+#### Championship multiplier  
 Your championship multiplier is going to be 1.x where x is the number of championships you've won.  
 (1 championship = 1.1, 2 championships = 1.2 etc.)
 
