@@ -48,7 +48,7 @@ Simply we take a given Power Ranking and compare it against the average raw powe
 
 ### Manager Power Rankings
 
-OK here is where we leave the realm of focusing on points scored and really start looking rewarding 3 factors.
+OK here is where we leave the realm of focusing on points scored and look at rewarding 3 factors.
 
   - Wins in the regular season
   - Wins and Byes in the post season
@@ -67,7 +67,7 @@ Regular season wins / League average winning %
 Your championship multiplier is going to be 1.x where x is the number of championships you've won.  
 (1 championship = 1.1, 2 championships = 1.2 etc.)
 
-**Math**  
+#### Math 
 So we add the *regular season number*, and the *post season number* together and multiply the result by the *championship multiplier*. Finally we devide by the number of seasons played and we have our final result.  Or:
 
 {(Regular season Number + Post Season Number) x Championship multiplier} / Number of seasons played.
