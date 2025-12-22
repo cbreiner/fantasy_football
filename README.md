@@ -13,6 +13,9 @@
   - How do you stack up all time against your biggest rival?
 - **Manager Pages**
   - This is all about you. Your best, your worst, and everything in between!
+- **Year Pages**
+  - The results from every game from every year.
+ 
 ## Power Rankings Explained
 
 There are three types of power rankings:
@@ -61,7 +64,14 @@ Regular season wins / League average winning %
 
 **Championship multiplier**  
 Your championship multiplier is going to be 1.x where x is the number of championships you've won.  
-(1 championship mulitplier of 1.1, 2 championships = multiplier of 1.2 etc.)
+(1 championship = 1.1, 2 championships = 1.2 etc.)
+
+**Math**  
+So we add the *regular season number*, and the *post season number* together and multiply the result by the *championship multiplier*. Finally we devide by the number of seasons played and we have our final result.  Or:
+
+{(Regular season Number + Post Season Number) x Championship multiplier} / Number of seasons played.
+
+
 
 																																																
 
