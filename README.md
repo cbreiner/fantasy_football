@@ -53,13 +53,13 @@ OK here is where we leave the realm of focusing on points scored and really star
 The thinking here is that while you could get unlucky in a given season, if you're a good manager the wins are going to come. 
 Here is how we account for those factors:
 
-**Regular Season Number**
+**Regular Season Number**  
 Regular season wins / League average winning %
 
-**Post Season Number**
+**Post Season Number**  
 (Post Season Wins + Byes)/ League average post season winning %
 
-**Championship multiplier** 
+**Championship multiplier**  
 Your championship multiplier is going to be 1.x where x is the number of championships you've won.  
 (1 championship mulitplier of 1.1, 2 championships = multiplier of 1.2 etc.)
 
