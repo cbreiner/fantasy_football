@@ -29,12 +29,12 @@ Lets look at each of them individually:
 Raw power rankings are calculated per season. They are independent and give us a base number for the season. Three aspects are taken into account:
   
   1. Average Points Scored (~50%)
-  2. High and Low Score (Measuring consistency) (~30%)
+  2. High and Low Score (Measuring variance) (~30%)
   3. Win Percentage (~20%)
 
 The idea here is to look out how many points you were scoring and how consistently. Winning matters but not as much as overall points. If you got unlucky and scored 2nd highest points every week but always played the person who scored the highest you'd never win but you'd still have a really good season. For those wondering the formulas is as follows: 
 
-{(Average points Scored x 6) + (High point week + Low Point Week x 2) + ((Win Percentage x 200) x 2)}/10
+{(Average points Scored x 6) + ((High point week + Low Point Week) x 2) + ((Win Percentage x 200) x 2)}/10
 
 ### Season Power Rankings
 
